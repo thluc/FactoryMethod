@@ -8,5 +8,7 @@ Oque o programa faz:
  Nome do grupo:
  
  Geovanna Gabrielle Teixeira de Jesus
+ 
  Maria Luiza Cruvinel dos Santos
+ 
  Thiago dos Santos Lucas
